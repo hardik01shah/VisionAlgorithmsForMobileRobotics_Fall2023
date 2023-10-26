@@ -1,7 +1,9 @@
 exercise_01/code/__pycache__/*
 exercise_02/code/__pycache__/*
 exercise_03/code/__pycache__/*
+exercise_04/code/__pycache__/*
 exercise_01/data/*
 exercise_02/data/*
 exercise_03/data/*
+exercise_04/data/*
 venv/*
